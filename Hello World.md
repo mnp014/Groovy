@@ -1,5 +1,5 @@
 # HelloWorld.groovy
-###Code:
+### Code:
 ```
     class GroovyABC{
         static void main(String[] args){
@@ -7,7 +7,7 @@
         }
     }
 ```
-###Run:
+### Run:
 ```
 groovy HelloWorld.groovy
 ```
