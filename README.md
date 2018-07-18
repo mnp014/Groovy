@@ -1,4 +1,4 @@
-# Groovy Tutorial
+# Groovy CheetSheet
 
  - [Airthametic Operations](https://github.com/mnp014/Groovy/blob/master/Airthmatic%20Operaations.md)
  - [Conditions]
